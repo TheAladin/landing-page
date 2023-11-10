@@ -2,12 +2,12 @@ header {
     background-color: #1f2937;
     display: flex;
     justify-content: space-between;
-    ;
 }
 
 a {
     text-decoration: none;
     color: #f9faf8;
+    flex: 1;
 }
 
 ul {
@@ -17,4 +17,11 @@ ul {
     margin: 0;
     padding: 0;
     gap: 24px;
+    flex: 1;
+}
+
+.links {
+    display: flex;
+    justify-content: space-between;
+
 }
