@@ -50,3 +50,9 @@ h1 {
 .bottom-header {
     padding: 80px;
 }
+
+button {
+    background-color: #1873f3;
+    color: white;
+    border-radius: 15%;
+}
