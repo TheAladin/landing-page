@@ -8,8 +8,6 @@ body {
 
 header {
     background-color: #1f2937;
-    display: flex;
-    justify-content: space-between;
     height: 400px;
     margin: 0;
     padding: 0;
@@ -33,11 +31,22 @@ ul {
 
 .links {
     display: flex;
-    justify-content: space-between;
-
+    justify-content: space-around;
+    margin: 0 46px 0 46px;
 }
 
 #Logo {
     font-size: 24px;
     font-weight: bold;
+    margin: 0 80px 0 80px;
+}
+
+h1 {
+    color: #f9faf8;
+    font-size: 48px;
+    font-weight: 900;
+}
+
+.bottom-header {
+    padding: 80px;
 }
