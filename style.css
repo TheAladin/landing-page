@@ -129,3 +129,7 @@ li {
     justify-content: center;
     gap: 60px;
 }
+
+.gallery {
+    height: 300px;
+}
