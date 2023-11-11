@@ -151,5 +151,5 @@ li {
 }
 
 #person {
-    align-self: flex-end;
+    justify-self: flex-end;
 }
