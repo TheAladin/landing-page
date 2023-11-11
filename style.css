@@ -93,7 +93,7 @@ button:hover {
 }
 
 .hright {
-    flex: 1;
+    /* flex: 1 1 auto; */
     height: 250px;
     width: 250px;
 }
