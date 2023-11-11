@@ -93,3 +93,26 @@ button:hover {
     margin: 0;
     flex: 1;
 }
+
+.mid-section {
+    text-align: center;
+}
+
+.mid-section h2 {
+    font-size: 36px;
+    font-weight: 900;
+    margin: 0;
+    flex: 1;
+}
+.gallery-img {
+    border: 5px solid rgb(104, 104, 241);
+    height: 200px;
+    width: 200px;
+    border-radius: 5%;
+}
+
+li {
+    text-align: center;
+    max-width: 200px;
+    max-height: 200px;
+}
