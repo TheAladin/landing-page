@@ -58,6 +58,8 @@ h1 {
     display: flex;
     max-width: 1500px;
     max-height: 200px;
+    flex: 1;
+    justify-content: center;
 }
 
 button {
@@ -77,8 +79,8 @@ button:hover {
 
 .img-holder {
     background-color: gray;
-    height: 200px;
-    width: 450px;
+    height: 100%;
+    width: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -92,6 +94,8 @@ button:hover {
 
 .hright {
     flex: 1;
+    height: 250px;
+    width: 250px;
 }
 .hleft p {
     margin: 0;
