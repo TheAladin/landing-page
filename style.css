@@ -133,3 +133,15 @@ li {
 .gallery {
     height: 300px;
 }
+
+.quote {
+    background-color: #e5e7eb;
+    height: 350px;
+    font-size: 36px;
+    font-style: italic;
+    color: #1f2937;
+    font-weight: lighter;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
